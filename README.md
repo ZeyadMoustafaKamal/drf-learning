@@ -1,0 +1,1 @@
+### In this repo I will try to make some fantastic projects with django rest framework along with [this tutorial](https://youtu.be/c708Nf0cHrs)
